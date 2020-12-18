@@ -1,6 +1,6 @@
 import React from 'react';
 import { Meta, Story } from '@storybook/react';
-import { Thing2, Thing2Props } from './Thing2'
+import { Thing2, Thing2Props } from './Thing2';
 
 const meta: Meta = {
   title: 'Thing2',
